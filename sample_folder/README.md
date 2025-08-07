@@ -44,3 +44,5 @@ step 7:  git pull origin main
 step 8:  git push origin main
 
 step 9: git pull origin main
+
+you donot have to pull everytime now 
