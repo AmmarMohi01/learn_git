@@ -1,3 +1,29 @@
+Step 0 (optional): Create a GitHub repository and web app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 these are the commands to collaborate using git
 
 step1:   git clone https://github.com/sameer-jafar-05/learn_git.git
